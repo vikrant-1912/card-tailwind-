@@ -1,1 +1,1 @@
-Crad Component Using Tailwind CSS 
+Card Component Using Tailwind CSS 
