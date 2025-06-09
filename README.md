@@ -1,4 +1,4 @@
-# 💎 Tailwind CSS - Card Component Project   –      #Jewelry Product Showcase  ( Minor Project )
+# 💎 Tailwind CSS - Card Component Project   –    #Jewelry Product Showcase 
 
 
 This is a simple and responsive product showcase project built using **HTML** and **Tailwind CSS**. It displays a grid of jewelry product cards with hover effects and clean layout. Perfect for beginners learning **utility-first CSS design** with Tailwind.
@@ -9,15 +9,11 @@ This is a simple and responsive product showcase project built using **HTML** an
 ![Screenshot]
 
 
-
-
-
+![Screenshot 2025-06-09 193727](https://github.com/user-attachments/assets/8adb7e3f-bf22-4acf-ae3b-7051c40f2b62)
 
 
 
 ---
-
-
 
 
 
@@ -76,6 +72,15 @@ Will Add pagination or dynamic data rendering.
 
 
 
+
+🙌 Acknowledgements
+
+This project is part of my Frontend Learning Series using Tailwind CSS to build visually appealing UI components.
+
+
+
+
+
 ## 📬 Reach Out to Me
 
 
@@ -92,6 +97,7 @@ Will Add pagination or dynamic data rendering.
 
      
 4. [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) Gmail](mailto:vikrantkhatana15@gmail.com)
+
 
 
 
