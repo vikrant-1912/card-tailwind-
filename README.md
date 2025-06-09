@@ -6,7 +6,40 @@ This is a simple and responsive product showcase project built using **HTML** an
 
 
 
+
+## 📁 Folder Structure
+
+
+
+📦 Tailwind-Card-Project <br>
+├── 📄 README.md <br>
+├── 📄 index.html <br>
+├── 📄 output.css <br>
+├── 📄 package.json <br>
+├── 📄 package-lock.json <br>
+├── 📁 style.css <br>
+├── 📁 img1.jpg <br>
+
+
+
+
+
+
+
+
+
+
 ![Screenshot]
+
+
+
+
+
+
+
+
+
+
 
 
 ![Screenshot 2025-06-09 193727](https://github.com/user-attachments/assets/8adb7e3f-bf22-4acf-ae3b-7051c40f2b62)
@@ -14,6 +47,9 @@ This is a simple and responsive product showcase project built using **HTML** an
 
 
 ---
+
+
+
 
 
 
@@ -29,7 +65,11 @@ This is a simple and responsive product showcase project built using **HTML** an
 
 
 
+
+
 ---
+
+
 
 
 
@@ -44,19 +84,6 @@ This is a simple and responsive product showcase project built using **HTML** an
 ---
 
 
-
-## 📁 Folder Structure
-
-
-
-📦 Tailwind-Card-Project <br>
-├── 📄 README.md <br>
-├── 📄 index.html <br>
-├── 📄 output.css <br>
-├── 📄 package.json <br>
-├── 📄 package-lock.json <br>
-├── 📁 style.css <br>
-├── 📁 img1.jpg <br>
 
 
 
